@@ -1,1 +1,28 @@
 
+2. Search Engine Optimization (SEO)
+
+
+•	Keyword research: Use tools like SEMrush, UberSuggest or Ahrefs to find relevant keywords. Best keywords would be those which have a high search volume and low competition.
+
+Create a list of basic terms that describe electric cars. Use the tools above to expand this list based on search trends and competitor keywords. Focus on both short-tail (e.g. electric car) and long-tail (e.g. electric car dealerships near me) keywords.
+
+
+•	On-Page SEO: Implement SEO best practices in content creation. Use tools like google analytics to check which areas are lacking in performance.
+	
+	Areas which could be optimized: title tags, meta descriptions, header tags and images (use alt tags). These elements should contain target keywords.
+
+
+•	Technical SEO: Use Google Search Console and Screaming Frog SEO Spider to check for more technical aspects of SEO (crawling).
+
+	The URL structure should be clean (simple, logical and keyword-relevant) and easily indexable by search engines. The site should have HTTPS enabled. Implement a sitemap.xml file and robots.txt file for search-engine crawlers.
+
+
+•	Content Optimization: The content should be of high quality - understandable and engaging, relevant to the site and updated regularly.
+
+News about electric cars and articles which provide valuable information as well as videos could be a good way to attract people.
+
+
+•	Link Building: Create content which is easily shareable and makes people want to visit your website.
+
+Backlinks from bigger websites are worth more, so prioritize partnerships/content which will incentivize bigger websites to link to your website.
+
